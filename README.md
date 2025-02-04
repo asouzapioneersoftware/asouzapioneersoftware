@@ -1,16 +1,26 @@
-## Hi there 👋
+### Olá 👋
+# Alexandre Souza Nunes - Backend Developer
 
-<!--
-**asouzapioneersoftware/asouzapioneersoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim 💬
+Sou um entusiasta e programador backend com 4 anos de experiência, especializado no desenvolvimento de aplicações Back-end. Meu objetivo é elevar a qualidade de projetos existentes e contribuir ativamente em todas as fases do desenvolvimento, desde a concepção até o deploy.
 
-Here are some ideas to get you started:
+## Tecnologias 🖥
+- **Linguagens de Programação:** 💻
+  - Python (Django)
+  - C# (.NET)
+  - Java (Spring Boot)
+  - Node.js
+  - React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Bancos de Dados:** 💾
+  - Oracle
+  - Azure SQL
+  - PostgreSQL
+  - MongoDB
+
+- **Ferramentas e Plataformas:** 🧷
+  - Docker
+  - Azure
+
+Estou sempre em busca de desafios interessantes e oportunidades para aplicar e expandir meu conhecimento tecnológico. Vamos colaborar em algo incrível!
+
